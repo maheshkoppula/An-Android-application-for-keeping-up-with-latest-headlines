@@ -48,5 +48,3 @@ It's and android app built with kotlin. Our app is a user-friendly news applicat
 ## Guide
 [![Project Report](https://img.shields.io/badge/Project%20Report-View%20Here-blue.svg)](https://docs.google.com/document/d/1EIi8dZ0EwxzcsCEcrDeg8fdUTvdXoeYgUMJVEVuFaPM/edit)
 
-## Assignments
-[![View Link](https://img.shields.io/badge/Link%20to-View%20Here-blue.svg)](https://drive.google.com/drive/folders/1k6RlhUbbecNe8GtG5Q2kZH0nMO2FEZR1?usp=sharing)
